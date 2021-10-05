@@ -131,7 +131,7 @@ namespace gdec
                     biRedBitMask = 0x000000FF,
                     biGreenBitMask = 0x0000FF00,
                     biBlueBitMask = 0x00FF0000,
-                    //  biAlphaBitMask = 0xFF000000,
+                    biAlphaBitMask = 0xFF000000,
                     // biClrUsed = 0x100,
                     // biClrImportant = 0x100
                 }, (IntPtr)hdrpnt, true);
