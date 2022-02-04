@@ -4,7 +4,10 @@ Simple cli tool to extract resources from the game Eastward in batch fashion.
 
 ## Description
 
-Can extract all .g archive files and hmg/pgf packed images. Tool will also generate bitmap headers for all unpacked image files. Currently not planning on adding repacking functionality to this project because it is a very established process using [QuickBMS](http://aluigi.altervista.org/quickbms.htm). This project was predominantly only for making image viewing easier when browsing though game assets.
+Can extract all .g archive files and hmg/pgf packed images. Tool will also generate bitmap headers for all unpacked
+image files. Currently not planning on adding repacking functionality to this project because it is a very established
+process using [QuickBMS](http://aluigi.altervista.org/quickbms.htm). This project was predominantly only for making
+image viewing easier when browsing though game assets.
 
 ## Getting Started
 
@@ -36,7 +39,8 @@ Can extract all .g archive files and hmg/pgf packed images. Tool will also gener
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
+
 ## Acknowledgments
 
 * Packed Image Format by Allen at Zenhax ([post](https://zenhax.com/viewtopic.php?f=7&t=15259))
